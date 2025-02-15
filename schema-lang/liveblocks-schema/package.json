@@ -34,7 +34,7 @@
     "@types/didyoumean": "^1.2.0",
     "ast-generator": "^0.1.0",
     "peggy": "^2.0.1",
-    "pkg": "^4.4.9",
+    "pkg": "^5.8.1",
     "ts-node": "^10.9.1",
     "ts-pegjs": "^2.1.0",
     "watch": "^1.0.2"

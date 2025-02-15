@@ -39,10 +39,10 @@
   "devDependencies": {
     "@liveblocks/eslint-config": "*",
     "@liveblocks/jest-config": "*",
-    "@types/ws": "^8.5.10",
+    "@types/ws": "^8.5.14",
     "dotenv": "^16.4.5",
     "msw": "^0.39.1",
-    "ws": "^8.17.1"
+    "ws": "^8.18.0"
   },
   "sideEffects": false,
   "bugs": {
